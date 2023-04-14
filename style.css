@@ -452,12 +452,14 @@ footer {
     }
 
 #header {
-    background-image: <img src="profile.jpg" alt="Photo of April Dockery">
+    background-image: 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
 }
+ 
+ <img src="profile.jpg" alt="Photo of April Dockery">
 
 nav ul {
     position: absolute;
