@@ -26,7 +26,7 @@ html {
 }
 
 #header {
-    background-image: ('april.jpg');
+    background-image: ('./april.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
